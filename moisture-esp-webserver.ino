@@ -5,8 +5,6 @@
 //#include <ArduinoJson.h>
 //#include <timer.h>
 
-//const char* ssid = "pepper";
-//const char* password = "201808_PepperMcPepperface";
 
 #define SERIAL_BUFFER_SIZE 500
 
